@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/harf2310/commerceapp.svg?branch=master)](https://travis-ci.org/harf2310/commerceapp)
+[![Build Status](https://travis-ci.org/devharf2310/commerceapp.svg?branch=master)](https://travis-ci.org/devharf2310/commerceapp)
 
 Live demo: https://tcommerceapp.azurewebsites.net
 
