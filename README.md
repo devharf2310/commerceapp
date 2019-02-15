@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/harf2310/commerceapp.svg?branch=master)](https://travis-ci.org/harf2310/commerceapp)
+
+Live demo: https://tcommerceapp.azurewebsites.net
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
