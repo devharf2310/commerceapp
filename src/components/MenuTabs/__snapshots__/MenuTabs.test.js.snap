@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs snapshot tests renders correctly 1`] = `
+<ul
+  className="md-tabs documentation-tabs"
+  role="tablist"
+  style={
+    Object {
+      "paddingLeft": undefined,
+    }
+  }
+>
+  <span
+    aria-hidden={true}
+  />
+  <li
+    aria-controls="documentation-panel-0"
+    aria-pressed={false}
+    aria-selected={true}
+    className="md-fake-btn md-pointer--hover md-fake-btn--no-outline md-tab md-tab--active"
+    id="/"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    role="tab"
+    tabIndex={0}
+  >
+    <div
+      className="md-ink-container"
+    />
+    <div
+      className="md-tab-label"
+    >
+      Home
+    </div>
+  </li>
+  <li
+    aria-controls="documentation-panel-1"
+    aria-pressed={false}
+    aria-selected={false}
+    className="md-fake-btn md-pointer--hover md-fake-btn--no-outline md-tab md-tab--inactive"
+    id="/products"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    role="tab"
+    tabIndex={0}
+  >
+    <div
+      className="md-ink-container"
+    />
+    <div
+      className="md-tab-label"
+    >
+      Products
+    </div>
+  </li>
+  <li
+    aria-controls="documentation-panel-2"
+    aria-pressed={false}
+    aria-selected={false}
+    className="md-fake-btn md-pointer--hover md-fake-btn--no-outline md-tab md-tab--inactive"
+    id="/clients"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    role="tab"
+    tabIndex={0}
+  >
+    <div
+      className="md-ink-container"
+    />
+    <div
+      className="md-tab-label"
+    >
+      Clients
+    </div>
+  </li>
+  <li
+    aria-controls="documentation-panel-3"
+    aria-pressed={false}
+    aria-selected={false}
+    className="md-fake-btn md-pointer--hover md-fake-btn--no-outline md-tab md-tab--inactive"
+    id="/contacts"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    role="tab"
+    tabIndex={0}
+  >
+    <div
+      className="md-ink-container"
+    />
+    <div
+      className="md-tab-label"
+    >
+      Contact
+    </div>
+  </li>
+  <span
+    className="md-tab-indicator"
+    style={
+      Object {
+        "MozTransform": "translate3d(0px, 0, 0)",
+        "WebkitTransform": "translate3d(0px, 0, 0)",
+        "height": 2,
+        "msTransform": "translate3d(0px, 0, 0)",
+        "transform": "translate3d(0px, 0, 0)",
+        "width": 160,
+      }
+    }
+  />
+</ul>
+`;

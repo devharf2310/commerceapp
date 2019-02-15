@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product list snapshot tests with data renders correctly 1`] = `
+<div
+  className="md-cell md-cell--12"
+>
+  <div
+    className="md-paper md-paper--1 md-card md-background--card md-block-centered"
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchStart={[Function]}
+  >
+    <div
+      className="md-card-title md-card-title--primary"
+    >
+      <div
+        className="md-card-title--title-block"
+      >
+        <h2
+          className="md-card-title--title md-card-title--large md-text"
+          tabIndex={null}
+        >
+          Intelligent Concrete Computer
+        </h2>
+        <h3
+          className="md-card-title--title md-text--secondary"
+        >
+          Services - Gusikowski - Ebert
+        </h3>
+      </div>
+    </div>
+    <section
+      className="md-card-text"
+    >
+      <div
+        className="md-grid"
+      >
+        <div
+          className="md-cell md-cell--4"
+        >
+          <center>
+            <img
+              alt="Intelligent Concrete Computer"
+              className="product-image"
+              src="http://lorempixel.com/640/480/technics"
+            />
+          </center>
+        </div>
+        <div
+          className="md-cell md-cell--8"
+        >
+          <p>
+            Omnis veritatis in aliquam aspernatur nulla. Officia quidem qui. Maxime veniam nulla sint qui dolorem qui saepe neque placeat. Magni culpa aut eos molestiae nihil molestias. Quidem consectetur quia quo blanditiis perspiciatis facere dolorem.
+          </p>
+          <p>
+            <span
+              className="span-product-detail"
+            >
+              Stock:
+            </span>
+             
+            44903
+          </p>
+          <p>
+            <span
+              className="span-product-detail"
+            >
+              Price:
+            </span>
+             
+            <span
+              className="currency-value"
+            >
+              752.00
+            </span>
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

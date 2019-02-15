@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Products snapshot tests renders correctly 1`] = `
+<div
+  className="md-grid"
+>
+  <p>
+    Showing 
+    <span
+      className="span-quantity-products"
+    >
+      0
+    </span>
+     - Hidden 
+    <span
+      className="span-quantity-products"
+    >
+      35
+    </span>
+  </p>
+</div>
+`;

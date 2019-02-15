@@ -1,0 +1,15 @@
+@import '../../globals';
+
+.product-image{
+    width: 80%;
+    height: auto;
+}
+
+.product-detail{
+    font-weight: bolder;
+}
+
+.currency-value::before{
+    content: "$";
+}
+
