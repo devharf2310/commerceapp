@@ -30,12 +30,12 @@ const ProductCard = ({product}) => (
 
 
 ProductCard.propTypes = {
-    name: PropTypes.string.isRequired,
+    product : PropTypes.shape({name: PropTypes.string.isRequired,
     categories: PropTypes.array.isRequired,
     brand: PropTypes.string.isRequired,
     photo: PropTypes.string.isRequired,
     stock: PropTypes.number.isRequired,
     price: PropTypes.string.isRequired
-  };
+  })};
 
 export default ProductCard;
